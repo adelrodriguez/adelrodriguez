@@ -1,4 +1,4 @@
-### Hi there 👋
+![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelrodriguez&show_icons=true&theme=transparent)
 
 <!--
 **adelrodriguez/adelrodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
